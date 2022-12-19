@@ -1,4 +1,4 @@
-# x
+# AI, HPC and Data Analysis 
 
 Practical Assignments(Labs) performed during my Final Year in B.E in Computer Engineering.
 
